@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/Changru416/Changru416.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+When you think of mood disorders, depression and bipolar disorder likely come to mind first. However, Borderline personality disorder (BPD) is also a common personality disorder in psychiatry, which is mainly characterized by emotional, interpersonal relationships, self-image, and behavioral instability, and is accompanied by a variety of impulsive behaviors. It is a complex and serious mental disorder.  People with a borderline personality disorder may experience intense episodes of anger, depression, and anxiety that can last from a few hours to days. The typical characteristics of borderline personality disorder have been described by scholars as "stable instability", which often manifests as non-compliance in treatment, which is very difficult to treat.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
