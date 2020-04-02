@@ -18,21 +18,30 @@ How much do you know about borderline personality disorder? Let's get to know it
 ```markdown
 Syntax highlighted code block
 
+
 # Signs and Symptoms
 
 Borderline personality disorder can negatively affect patients' daily lives, relationships, and self-esteem. BPD-related symptoms usually begin in adolescence, and are often Suicidal or non-Suicidal. According to the American Psychiatric Association (APA), you may have BPD if you meet the following 5 symptoms and above:
 
-1. Try to avoid real or imagined abandonment: fear of loneliness and close people will leave them;
-2. Interpersonal tension and instability: often feel disappointed and rejected;
-3. Disorder of self-awareness: such as inferiority, self-doubt on self-worth, friendship, and sexual orientation;
-4. Impulsive behavior: emotional use rather than rational thinking;
-5. Self-harm behavior: such as cutting the wrist, drinking, overeating, etc.;
-6. Emotional instability: easy to produce big emotional ups and downs due to small things;
-7. Long-term emptiness and boredom;
-8. Feeling of separation: Feeling that you are not in your body.
+1. Efforts to avoid real or imagined abandonment: such as rapidly initiating intimate (physical or emotional) relationships or cutting off communication with someone in anticipation of being abandoned.
+2. Interpersonal tension and instability: often feel disappointed and rejected and swing from extreme closeness and love (idealization) to extreme dislike or anger (devaluation).
+3. Disorder of self-image or sense of self: such as inferiority, self-doubt on self-worth, friendship, and sexual orientation
+4. Impulsive behavior: emotional use rather than rational thinking.
+5. Self-harming behavior: such as cutting, drinking, overeating, etc.
+6. Emotional instability: easy to produce big emotional ups and downs due to small things.
+7. Long-term chronic feelings of emptiness
+8. Feeling of dissociation: such as feeling that seeing oneself from outside one's body.
 
 
-## Header 2
+## Self-test
+
+You may find that many parts of your life are affected, including relationships, work or school. If you notice these things on your own, tell your doctor or counselor. The right treatment can help you feel better and help you live a more stable and meaningful life.
+
+If you find these conditions among your family members or friends, tell them to see a doctor or see a counsellor. But remember you can't force anyone to ask for help. If you are overly sad about this relationship, you will find it helps to heal yourself.
+
+There are many diagnostic tools for research and diagnosis of borderline personality disorder, DIB, DIPD-IV (Diagnostic Interview for DSM-IV Personality Disorders), IPDE (the International Personality Disorder Examination), SIDP-Ⅳ (the structured Interview for DSM-IV Personality), PDI- Ⅳ (the Personality Disorder Interview-Ⅳ), SCID-Ⅱ (Structured Clinical Interview for DSM-Ⅳ AxisⅡ Personality Disorders), etc.
+
+
 ### Header 3
 
 - Bulleted
