@@ -62,7 +62,7 @@ In terms of personal experience and social environment, it includes various sign
 In terms of treatment, hallucinations and delusions are obvious and require a small amount of drugs in combination with treatment; those with poor self-functions can undergo supportive psychotherapy; some of them have stronger self-functions and better tolerance can consider long-term psychoanalytic treatment.
 
 # Therapy
-According to current clinical studies, the most empirical and preferred intervention for borderline personality disorder is Dialectical Behaviour Therapy (referred to as DBT).
+According to current clinical studies, the most empirical and preferred intervention for borderline personality disorder is Dialectical Behaviour Therapy (referred to as DBT). Personal, collective, and telephone counseling, dialectical behavior therapy is usually based on teaching people how to regulate their emotions, endure pain, and improve relationships.
 
 Co-morbidities should also be considered clinically. Borderline personality disorders often appear simultaneously with the following clinical conditions:
 · Other personality disorders
@@ -76,14 +76,42 @@ If the eating disorder is severe, it is best to receive treatment for eating dis
 If it is PTSD for post-traumatic stress disorder, you can receive DBT first and then PTSD. If the drug addiction is more serious, then you need to get detox before starting DBT. 
 If it is severe depression, you can consider starting medication and then DBT after the disease is stable.
 
+# Medication
+There is no medication that can treat BPD, but antidepressants, antianxiety drugs, and antipsychotics may help treat some of the symptoms.
+
 # Hospitalization
 If you begin showing signs of self-harm or suicidal ideation, a doctor may hospitalize you for observation and intensive therapy.
+
 
 ### Diagnostic criteria
 There are many diagnostic tools for research and diagnosis of borderline personality disorder, DIB, DIPD-IV (Diagnostic Interview for DSM-IV Personality Disorders), IPDE (the International Personality Disorder Examination), SIDP-Ⅳ (the structured Interview for DSM-IV Personality), PDI- Ⅳ (the Personality Disorder Interview-Ⅳ), SCID-Ⅱ (Structured Clinical Interview for DSM-Ⅳ AxisⅡ Personality Disorders), etc.
 
 The most authoritative diagnostic criterion for borderline personality disorder is DSM-IV (Fourth Edition of the American Diagnostic and Statistical Manual of Mental Disorders).
 
+
+### How to Help Loved Ones with Borderline Personality Disorder
+
+# Setting Boundaries with Your Loved One. 
+Talk to your loved one about boundaries at a time when you’re both calm, not in the heat of an argument.
+Let your loved one know you still love him or her. 
+Know when to walk away.
+
+# Communicating with Your Loved One
+Focus on the emotions, not the words. 
+Listen actively and be sympathetic. 
+Talk about things other than the disorder. 
+Watch for destructive behavior. 
+
+# Taking Care of Yourself
+Avoid the temptation to isolate.
+Realize it isn't about you.
+Remember you can't fix your loved one. 
+Join a support group for BPD family members.
+
+
+### Seek treatment
+
+If you or someone you know is in crisis, call the toll-free National Suicide Prevention Lifeline (NSPL) at 1-800-273-TALK (8255), 24 hours a day, 7 days a week. The service is available to everyone. The deaf and hard of hearing can contact the Lifeline via TTY at 1-800-799-4889. All calls are free and confidential. Contact social media outlets directly if you are concerned about a friend’s social media updates or dial 911 in an emergency. Read more on NIMH’s Suicide Prevention health topic page.
 
 
 
@@ -102,7 +130,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Changru416/Changru416.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
