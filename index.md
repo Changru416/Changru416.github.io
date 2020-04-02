@@ -64,7 +64,17 @@ In terms of treatment, hallucinations and delusions are obvious and require a sm
 # Therapy
 According to current clinical studies, the most empirical and preferred intervention for borderline personality disorder is Dialectical Behaviour Therapy (referred to as DBT).
 
-Co-morbidities should also be considered clinically. Borderline personality disorders often appear simultaneously with the following clinical conditions: eating disorders, post-traumatic stress disorder, drug addiction, and major depression. If the eating disorder is severe, it is best to receive treatment for eating disorder first, then DBT. If it is PTSD for post-traumatic stress disorder, you can receive DBT first and then PTSD. If the drug addiction is more serious, then you need to get detox before starting DBT. If it is severe depression, you can consider starting medication and then DBT after the disease is stable.
+Co-morbidities should also be considered clinically. Borderline personality disorders often appear simultaneously with the following clinical conditions:
+· Other personality disorders
+· Depression
+· Drug abuse
+· Anxiety
+· Eating disorders
+· Bipolar disorder
+
+If the eating disorder is severe, it is best to receive treatment for eating disorder first, then DBT.
+If it is PTSD for post-traumatic stress disorder, you can receive DBT first and then PTSD. If the drug addiction is more serious, then you need to get detox before starting DBT. 
+If it is severe depression, you can consider starting medication and then DBT after the disease is stable.
 
 # Hospitalization
 If you begin showing signs of self-harm or suicidal ideation, a doctor may hospitalize you for observation and intensive therapy.
