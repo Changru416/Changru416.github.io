@@ -19,7 +19,7 @@ How much do you know about borderline personality disorder? Let's get to know it
 Syntax highlighted code block
 
 
-# Signs and Symptoms
+### Signs and Symptoms
 
 Borderline personality disorder can negatively affect patients' daily lives, relationships, and self-esteem. BPD-related symptoms usually begin in adolescence, and are often Suicidal or non-Suicidal. According to the American Psychiatric Association (APA), you may have BPD if you meet the following 5 symptoms and above:
 
@@ -48,12 +48,36 @@ You may find that many parts of your life are affected, including relationships,
 
 If you find these conditions among your family members or friends, tell them to see a doctor or see a counsellor. But remember you can't force anyone to ask for help. If you are overly sad about this relationship, you will find it helps to heal yourself.
 
+### Risk Factors
+
+In terms of personal experience and social environment, it includes various significant traumatic experiences and insignificant, but long-term traumatic experiences.
+
+1. Either real or fear of abandonment in childhood or adolescence.
+2. Brain Factors: In the area that control impulses and emotional regulation of brain have structural and functional changes.
+3. Poor communication in the family.
+4. Sexual, physical or emotional abuse.
+5. Sudden traumatic events (including suicides, criminal cases, natural disasters, car accidents, etc.)
+
+### Treatments and Therapies
+In terms of treatment, hallucinations and delusions are obvious and require a small amount of drugs in combination with treatment; those with poor self-functions can undergo supportive psychotherapy; some of them have stronger self-functions and better tolerance can consider long-term psychoanalytic treatment.
+
+# Therapy
+According to current clinical studies, the most empirical and preferred intervention for borderline personality disorder is Dialectical Behaviour Therapy (referred to as DBT).
+
+Co-morbidities should also be considered clinically. Borderline personality disorders often appear simultaneously with the following clinical conditions: eating disorders, post-traumatic stress disorder, drug addiction, and major depression. If the eating disorder is severe, it is best to receive treatment for eating disorder first, then DBT. If it is PTSD for post-traumatic stress disorder, you can receive DBT first and then PTSD. If the drug addiction is more serious, then you need to get detox before starting DBT. If it is severe depression, you can consider starting medication and then DBT after the disease is stable.
+
+# Hospitalization
+If you begin showing signs of self-harm or suicidal ideation, a doctor may hospitalize you for observation and intensive therapy.
+
+### Diagnostic criteria
+There are many diagnostic tools for research and diagnosis of borderline personality disorder, DIB, DIPD-IV (Diagnostic Interview for DSM-IV Personality Disorders), IPDE (the International Personality Disorder Examination), SIDP-Ⅳ (the structured Interview for DSM-IV Personality), PDI- Ⅳ (the Personality Disorder Interview-Ⅳ), SCID-Ⅱ (Structured Clinical Interview for DSM-Ⅳ AxisⅡ Personality Disorders), etc.
+
+The most authoritative diagnostic criterion for borderline personality disorder is DSM-IV (Fourth Edition of the American Diagnostic and Statistical Manual of Mental Disorders).
 
 
 
 
 - Bulleted
-- List
 
 1. Numbered
 2. List
