@@ -33,16 +33,24 @@ Borderline personality disorder can negatively affect patients' daily lives, rel
 8. Feeling of dissociation: such as feeling that seeing oneself from outside one's body.
 
 
-## Self-test
+## How BPD affects relationships
+
+The most common BPD behaviors and symptoms could be detrimental to any relationship. If you have been diagnosed with the condition, you likely know this already. People with BPD are more likely to have many romantic relationships, which are often short-lived.
+
+An individual who is seen as a friend one day may be considered an enemy or traitor the next. These shifting feelings can lead to intense and unstable relationships.
+
+They felt that the other person was the best person for a while, and they followed others for a lifetime. They felt that the other person was the worst person for a while, and they could not wait to leave others immediately. Or it is extremely fearful that others will abandon themselves, either seek too much comfort, or directly break the relationship to protect themselves.
+
+
+### Self-test
 
 You may find that many parts of your life are affected, including relationships, work or school. If you notice these things on your own, tell your doctor or counselor. The right treatment can help you feel better and help you live a more stable and meaningful life.
 
 If you find these conditions among your family members or friends, tell them to see a doctor or see a counsellor. But remember you can't force anyone to ask for help. If you are overly sad about this relationship, you will find it helps to heal yourself.
 
-There are many diagnostic tools for research and diagnosis of borderline personality disorder, DIB, DIPD-IV (Diagnostic Interview for DSM-IV Personality Disorders), IPDE (the International Personality Disorder Examination), SIDP-Ⅳ (the structured Interview for DSM-IV Personality), PDI- Ⅳ (the Personality Disorder Interview-Ⅳ), SCID-Ⅱ (Structured Clinical Interview for DSM-Ⅳ AxisⅡ Personality Disorders), etc.
 
 
-### Header 3
+
 
 - Bulleted
 - List
