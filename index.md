@@ -17,10 +17,7 @@ There are many types of personality disorders. Generalized personality disorders
 
 How much do you know about borderline personality disorder? Let's get to know it!
 
-```markdown
-Syntax highlighted code block
-
-![Swings](BPD-Blog-I-1.jpg)
+![traits](traits.webp)
 
 ### Signs and Symptoms
 
@@ -35,6 +32,7 @@ Borderline personality disorder can negatively affect patients' daily lives, rel
 7. Long-term chronic feelings of emptiness
 8. Feeling of dissociation: such as feeling that seeing oneself from outside one's body.
 
+![signs](signs.jfif) ![mood](mood.jfif)
 
 ## How BPD affects relationships
 
@@ -111,6 +109,7 @@ Realize it isn't about you.
 Remember you can't fix your loved one. 
 Join a support group for BPD family members.
 
+![help](help.jpg)
 
 ### Seek treatment
 
