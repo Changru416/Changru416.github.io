@@ -1,6 +1,7 @@
 ## Welcome to my website!
 # Neglected Mental Illness——Borderline Personality Disorder
 
+![BPD](1.jpg)
 When you think of mood disorders, depression and bipolar disorder likely come to mind first. However, Borderline personality disorder (BPD) is also a common personality disorder in psychiatry, which is mainly characterized by emotional, interpersonal relationships, self-image, and behavioral instability, and is accompanied by a variety of impulsive behaviors. It is a complex and serious mental disorder.  People with a borderline personality disorder may experience intense episodes of anger, depression, and anxiety that can last from a few hours to days. The typical characteristics of borderline personality disorder have been described by scholars as "stable instability", which often manifests as non-compliance in treatment, which is very difficult to treat.
 
 Many therapists find that in the consultation, the visitor does not come to the psychiatrist with the main line of the problem of borderline personality disorder. They will use psychological problems such as emotional problems, intimacy problems, professional development problems, interpersonal relationships, etc. for psychological counseling. . But in the end, it was found that a certain percentage of people were accompanied by borderline personality disorder.
