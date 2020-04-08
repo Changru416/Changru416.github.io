@@ -19,7 +19,7 @@ How much do you know about borderline personality disorder? Let's get to know it
 ```markdown
 Syntax highlighted code block
 
-![Swings](2.jpg)
+![Swings](BPD-Blog-I-1.jpg)
 
 ### Signs and Symptoms
 
